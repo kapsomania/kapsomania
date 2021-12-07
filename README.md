@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kapsomania
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola I'm @kapsomania
+- 👀 I’m interested in big eyes
+- 🌱 I’m currently learning to eat a pear
+- 💞️ I’m looking to collaborate on 2 hearts
+- 📫 reach me at kapsomania@gmail.com
 
 <!---
 kapsomania/kapsomania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
